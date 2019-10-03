@@ -2,7 +2,7 @@ package Structures;
 
 public class Queue<T> implements MQueue<T> {
 	
-private int size;
+	private int size;
 	
 	private QNode<T> head;
 	private QNode<T> tail;

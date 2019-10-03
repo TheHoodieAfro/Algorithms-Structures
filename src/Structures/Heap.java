@@ -1,5 +1,7 @@
 package Structures;
 
-public class Heap {
-
+public class Heap<T> {
+	
+	
+	
 }
